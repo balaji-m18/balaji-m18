@@ -1,4 +1,13 @@
 ## Hi there 👋
+Aspiring Software Developer with a B.Tech in Electronics & Instrumentation Engineering, focused on building practical software solutions using Java, Python, and modern development frameworks.
+💻 Programming: Java, Python, C, SQL
+⚙️ Backend: Spring Boot, FastAPI, REST APIs
+🗄️ Databases: PostgreSQL, SQLite
+🤖 AI/ML: PyTorch, Scikit-learn, OpenCV, MediaPipe
+🌐 Web: HTML, CSS, JavaScript, Next.js
+🔧 Tools & Platforms: Git, GitHub, Arduino, ESP32, ESP8266, Blynk
+🚀 Interested in Software Development, Backend Engineering and Scalable applications
+📚 Currently strengthening my skills in Java, Spring Boot, DSA, and backend development
 
 <!--
 **balaji-m18/balaji-m18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
