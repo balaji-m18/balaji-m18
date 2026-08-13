@@ -1,6 +1,6 @@
 ## Hi there 👋
 Aspiring Software Developer with a B.Tech in Electronics & Instrumentation Engineering, focused on building practical software solutions using Java, Python, and modern development frameworks.<br>
-💻 Programming: Java, Python, C, SQL<br>
+💻 Programming: Java, Python, SQL<br>
 ⚙️ Backend: Spring Boot, FastAPI, REST APIs<br>
 🗄️ Databases: PostgreSQL, SQLite<br>
 🤖 AI/ML: PyTorch, Scikit-learn, OpenCV, MediaPipe<br>
